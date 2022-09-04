@@ -1,9 +1,9 @@
 # Project-Future-Tech
-Application for **AWS Build on Vietnam** 2022 event
+Application for **AWS Build on Vietnam** 2022 event:
+Solution for ZaloPay's Challenge
 
 Author: MasterYuri
 ## 1) Problems
-Solution for ZaloPay's Challenge.
 The challenge: As adoption of cashless transactions in Vietnam continues to grow, please propose a solution & develop a feature for a mobile wallet that enables its users to pay for parking more conveniently.
 
  When we recieved the challenge, we recognized that main key the judges wanted to give the contestants is "**MORE CONVENIENTLY**". So that, we decided to choose "**NFC technology**", which is the best way(I think) to make a more conveniently transaction in retail sectors and some companies as Samsung or Apple are developing that technology.
